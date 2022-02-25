@@ -8,3 +8,6 @@ https://preppindata.blogspot.com/2022/02/2022-week-7-call-center-agent-metrics.h
 
 
 I used two languages, i.e., Python and SQL, to complete the challenge, respectively.
+
+For Python codes, check Python branch.
+For SQL codes, check Sql branch
