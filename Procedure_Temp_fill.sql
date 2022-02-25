@@ -1,5 +1,6 @@
 -- stored procedure
 delimiter $$
+DROP PROCEDURE IF EXISTS Temp_fill;
 Create procedure Temp_fill ()
 begin
 	declare i int default 1;
