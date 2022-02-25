@@ -9,4 +9,4 @@ begin
 	End while;
 end $$
 
-delimiter $$;
+delimiter ;
