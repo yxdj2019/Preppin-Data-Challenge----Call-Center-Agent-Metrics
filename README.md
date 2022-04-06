@@ -1,5 +1,5 @@
 # Preppin-Data-Challenge----Call-Center-Agent-Metrics
-using PYTHON AND SQL to complete the Preppin' Data Challenge -- Call Center Agent Metrics
+using Python and SQL respectively to complete the Preppin' Data Challenge -- Call Center Agent Metrics
 
 This challenge is from Tableau weekly Preppin' Data blog.
 
